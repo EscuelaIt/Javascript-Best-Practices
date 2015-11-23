@@ -1,1 +1,0 @@
-http://jsperf.com/js-best-practices-jit-2
